@@ -1,0 +1,51 @@
+# Edit this file to update the research team listing on the About page.
+- name: Quantum Optimization Group
+  institution: University of Waterloo, Canada
+  pi: Prof. Jane Smith
+  description: >
+    Develops semidefinite programming relaxations for quantum channel
+    capacities and quantum MaxCut problems, with a focus on hierarchy methods
+    and symmetry reduction via Schur–Weyl duality.
+  website: ""
+  members:
+    - Alice Bauer
+    - Bob Chen
+    - Carol Diaz
+
+- name: Quantum Information Theory Lab
+  institution: TU Delft, Netherlands
+  pi: Prof. Klaus Müller
+  description: >
+    Studies nonlocal games, quantum correlations, and connections between
+    graph theory and quantum communication complexity.
+  website: ""
+  members:
+    - David Eriksson
+    - Elena Fischer
+    - Fumiko Goto
+
+- name: Algebraic Quantum Methods
+  institution: ENS Paris, France
+  pi: Prof. Marie Dupont
+  description: >
+    Applies representation theory and operator algebra to quantum error
+    correction, quantum advantage, and the Lovász theta function in
+    quantum settings.
+  website: ""
+  members:
+    - George Hu
+    - Hannah Ibrahim
+    - Iker Jiménez
+
+- name: Computational Quantum Complexity
+  institution: MIT, USA
+  pi: Prof. Robert Lee
+  description: >
+    Investigates the computational complexity of quantum optimization
+    problems, with emphasis on SDP hierarchies, quantum PCP theorems,
+    and approximation algorithms.
+  website: ""
+  members:
+    - Julia Kowalski
+    - Luca Martini
+    - Maya Nakamura

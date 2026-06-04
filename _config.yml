@@ -1,0 +1,39 @@
+remote_theme: andrewbanchich/forty-jekyll-theme
+
+# Site settings
+title: Quantera SDP Code
+subtitle: Research Consortium
+email: contact@quantera-sdpcode.org
+description: >
+  An international research consortium advancing quantum information theory
+  and semidefinite programming methods for quantum computation.
+baseurl: ""
+url: "https://quantera-sdpcode.github.io"
+author: Quantera SDP Code Consortium
+
+# Homepage tiles: source is "pages" (pages with show_tile: true appear as tiles)
+tiles-source: pages
+tiles-count: 6
+
+# Social links (leave blank to hide)
+socials:
+  GitHub: https://github.com/quantera-sdpcode
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-timeago
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "*.gemspec"
+  - LICENSE.md
+  - README.md
+  - CONTRIBUTING.md
