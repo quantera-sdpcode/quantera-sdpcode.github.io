@@ -62,7 +62,7 @@ show_tile: true
 {% for team in site.data.teams %}
 <div class="researcher-card">
   {% if team.image and team.image != "" %}
-  <img class="researcher-photo" src="{{ team.image | relative_url }}" alt="{{ team.name }}" />
+  <img class="researcher-photo" src="{{ team.image | relative_url }}" alt="{{ team.name }}" style="object-position:{{ team.image_position | default: 'top' }};" />
   {% else %}
   <div class="researcher-photo-placeholder">&#9786;</div>
   {% endif %}
