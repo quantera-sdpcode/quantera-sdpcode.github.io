@@ -1,6 +1,6 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="inner">
+	<div class="inner" style="display:flex; align-items:center; flex-wrap:wrap; gap:2rem;">
 		<section>
 			<div class="contact-method">
 				<span class="icon alt fa-envelope"></span>
@@ -8,11 +8,23 @@
 				<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 			</div>
 		</section>
+		<section style="margin-left:auto;">
+			<div style="display:flex; flex-direction:column; gap:0.6rem;">
+				<div style="display:flex; align-items:center; gap:0.6rem;">
+					<img src="/pics/eu-flag.png" alt="EU flag" style="height:2em; width:auto;" />
+					<span>Co-funded by the European Union</span>
+				</div>
+				<div style="display:flex; align-items:center; gap:0.6rem;">
+					<img src="/pics/QUANTERA-logo-podstawowe-web.jpg" alt="QuantERA logo" style="height:2em; width:auto;" />
+					<span>Supported by QuantERA SDPCode</span>
+				</div>
+			</div>
+		</section>
 	</div>
 </section>
 
 <!-- Footer -->
-<footer id="footer" style="position:relative;">
+<footer id="footer">
 	<div class="inner">
 		<ul class="icons">
 			{% for key_value in site.socials %}
@@ -29,16 +41,6 @@
 			<li>&copy; {{ site.title }}</li>
 			<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 		</ul>
-		<div style="position:absolute; bottom:1rem; right:2rem; text-align:right;">
-			<p style="font-size:0.8rem; color:#aaa; margin:0 0 0.5rem; display:flex; align-items:center; justify-content:flex-end; gap:0.4rem;">
-				<img src="/pics/eu-flag.png" alt="EU flag" style="height:1.1rem; width:auto;" />
-				Co-funded by the European Union
-			</p>
-			<p style="font-size:0.8rem; color:#aaa; margin:0; display:flex; align-items:center; justify-content:flex-end; gap:0.5rem;">
-				<img src="/pics/QUANTERA-logo-podstawowe-web.jpg" alt="QuantERA logo" style="height:1.8rem; width:auto;" />
-				Supported by QuantERA SDPCode
-			</p>
-		</div>
 	</div>
 </footer>
 
