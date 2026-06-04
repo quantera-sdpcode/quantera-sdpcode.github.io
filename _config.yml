@@ -3,7 +3,7 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 # Site settings
 title: Quantera SDP Code
 subtitle: Research Consortium
-email: contact@quantera-sdpcode.org
+email: felix.huber@ug.edu.pl
 description: >
   An international research consortium advancing quantum information theory
   and semidefinite programming methods for quantum computation.
