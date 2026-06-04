@@ -34,16 +34,16 @@ show_tile: true
 .researcher-card:last-child { border-bottom: none; }
 .researcher-photo {
   flex-shrink: 0;
-  width: 195px;
-  height: 195px;
+  width: 292px;
+  height: 292px;
   object-fit: cover;
   object-position: top;
   background: #dde4ec;
 }
 .researcher-photo-placeholder {
   flex-shrink: 0;
-  width: 195px;
-  height: 195px;
+  width: 292px;
+  height: 292px;
   background: #dde4ec;
   display: flex;
   align-items: center;
