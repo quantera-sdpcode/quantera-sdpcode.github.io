@@ -8,7 +8,7 @@ show_tile: true
 ---
 
 <div style="max-width:680px; margin: 2.5rem auto 2.5rem; padding: 0 1.5rem;">
-  <p style="font-size:1.15rem; line-height:1.75;">
+  <p style="font-size:1.35rem; line-height:1.75;">
     The <strong>Quantera SDP Code</strong> consortium unites research groups working at the
     intersection of quantum information theory, semidefinite programming, and algebraic methods.
     Together, we develop new mathematical tools for understanding the power and limits of
