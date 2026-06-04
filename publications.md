@@ -10,7 +10,7 @@ show_tile: true
 <div class="row">
   <div class="12u">
     <p>
-      Publications by Quantera SDPCode consortium members, listed in reverse chronological order.
+      Publications by QuantERA SDPCode consortium members, listed in reverse chronological order.
       Preprints are available on <a href="https://arxiv.org">arXiv</a>; click the links below.
     </p>
   </div>

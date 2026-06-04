@@ -2,7 +2,7 @@
 # Fields: title, date (YYYY-MM-DD), end_date (YYYY-MM-DD), location, description, tags (list), url (or "")
 #
 # Example entry:
-# - title: "Quantera SDPCode Workshop"
+# - title: "QuantERA SDPCode Workshop"
 #   date: "2026-09-01"
 #   end_date: "2026-09-03"
 #   location: "TU Berlin, Germany"

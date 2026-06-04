@@ -1,7 +1,7 @@
 remote_theme: andrewbanchich/forty-jekyll-theme
 
 # Site settings
-title: Quantera SDPCode
+title: QuantERA SDPCode
 subtitle: Research Consortium
 email: felix.huber@ug.edu.pl
 description: >
@@ -9,7 +9,7 @@ description: >
   and semidefinite programming methods for quantum computation.
 baseurl: ""
 url: "https://quantera-sdpcode.github.io"
-author: Quantera SDPCode Consortium
+author: QuantERA SDPCode Consortium
 
 # Homepage tiles: source is "pages" (pages with show_tile: true appear as tiles)
 tiles-source: pages
