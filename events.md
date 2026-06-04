@@ -10,7 +10,7 @@ show_tile: true
 <div class="row">
   <div class="12u">
     <p>
-      Upcoming events organised by or involving the Quantera SDP Code consortium.
+      Upcoming events organised by or involving the Quantera SDPCode consortium.
       Check back regularly — this page is updated as new events are confirmed.
     </p>
   </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Meet the researchers of the Quantera SDP Code consortium.
+description: Meet the researchers of the Quantera SDPCode consortium.
 image: pics/background/dawid-labno-VbK9wD-hzqI-unsplash.jpg
 nav-menu: true
 show_tile: true
@@ -9,7 +9,7 @@ show_tile: true
 
 <div style="max-width:900px; margin: 2.5rem auto 2.5rem; padding: 0 1.5rem;">
   <p style="font-size:1.35rem; line-height:1.75;">
-    The <strong>Quantera SDP Code</strong> consortium unites research groups working at the
+    The <strong>Quantera SDPCode</strong> consortium unites research groups working at the
     intersection of quantum information theory, semidefinite programming, and algebraic methods.
     Together, we develop new mathematical tools for understanding the power and limits of
     quantum computation and communication.
