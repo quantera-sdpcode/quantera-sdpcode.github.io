@@ -36,7 +36,6 @@ show_tile: true
   flex-shrink: 0;
   width: 130px;
   height: 130px;
-  border-radius: 50%;
   object-fit: cover;
   object-position: top;
   background: #dde4ec;
@@ -45,7 +44,6 @@ show_tile: true
   flex-shrink: 0;
   width: 130px;
   height: 130px;
-  border-radius: 50%;
   background: #dde4ec;
   display: flex;
   align-items: center;
@@ -75,6 +73,9 @@ show_tile: true
     <p>{{ team.description }}</p>
     {% if team.website and team.website != "" %}
     <a href="{{ team.website }}" class="button small">Website</a>
+    {% endif %}
+    {% if team.arxiv and team.arxiv != "" %}
+    <a href="{{ team.arxiv }}" class="button small">arXiv</a>
     {% endif %}
   </div>
 </div>
