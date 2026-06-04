@@ -54,8 +54,8 @@ show_tile: true
 }
 .researcher-info { flex: 1; }
 .researcher-info h3 { margin: 0 0 .2rem; }
-.researcher-role { font-size: .9rem; color: #555; margin-bottom: .1rem; }
-.researcher-institution { font-size: .85rem; color: #777; margin-bottom: .75rem; }
+.researcher-role { font-size: .9rem; color: #fff; margin-bottom: .1rem; }
+.researcher-institution { font-size: .85rem; color: #fff; margin-bottom: .75rem; }
 @media (max-width: 600px) {
   .researcher-card { flex-direction: column; align-items: center; text-align: center; }
   .researcher-photo { width: 100%; margin: 0; min-height: 240px; }
