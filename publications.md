@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: Selected publications from consortium members.
-image: assets/images/publications-banner.jpg
+image: pics/background/kateryna-melnyk-6XZZns74XGc-unsplash.jpg
 nav-menu: true
 show_tile: true
 ---

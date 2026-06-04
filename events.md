@@ -2,7 +2,7 @@
 layout: page
 title: Events
 description: Upcoming workshops, schools, and meetings.
-image: assets/images/events-banner.jpg
+image: pics/background/damian-karpinski-hfPcaJQQtuY-unsplash.jpg
 nav-menu: true
 show_tile: true
 ---
