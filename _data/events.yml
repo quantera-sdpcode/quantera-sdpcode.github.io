@@ -1,42 +1,12 @@
-# Upcoming events — add new events here; the page sorts by date automatically.
-- title: "Summer School on Quantum Optimization"
-  date: "2026-07-07"
-  end_date: "2026-07-11"
-  location: "ENS Paris, France"
-  description: >
-    Five-day summer school targeting PhD students and postdocs. Topics include
-    SDP hierarchies, Schur–Weyl duality, and quantum complexity theory.
-    Registration open until June 30.
-  tags: [summer school, education]
-  url: ""
-
-- title: "Quantera SDP Code Annual Workshop"
-  date: "2026-09-14"
-  end_date: "2026-09-16"
-  location: "TU Delft, Netherlands"
-  description: >
-    Three-day workshop bringing together all consortium members to present
-    recent results, discuss open problems, and plan future collaborations.
-    Participation by invitation; contact your team PI for details.
-  tags: [workshop, consortium]
-  url: ""
-
-- title: "Consortium Steering Committee Meeting"
-  date: "2026-10-05"
-  end_date: "2026-10-05"
-  location: "Online (Zoom)"
-  description: >
-    Quarterly meeting of team PIs and consortium coordinator to review
-    progress, deliverables, and upcoming milestones.
-  tags: [internal, steering committee]
-  url: ""
-
-- title: "Special Session at QIP 2027"
-  date: "2027-01-12"
-  end_date: "2027-01-12"
-  location: "TBA"
-  description: >
-    Consortium members will present a special session on quantum SDP methods
-    at the 30th Conference on Quantum Information Processing.
-  tags: [conference, QIP]
-  url: "https://qipconference.org"
+# Add upcoming events here. The page sorts them by date automatically.
+# Fields: title, date (YYYY-MM-DD), end_date (YYYY-MM-DD), location, description, tags (list), url (or "")
+#
+# Example entry:
+# - title: "Quantera SDP Code Workshop"
+#   date: "2026-09-01"
+#   end_date: "2026-09-03"
+#   location: "TU Berlin, Germany"
+#   description: >
+#     Annual consortium workshop.
+#   tags: [workshop]
+#   url: ""

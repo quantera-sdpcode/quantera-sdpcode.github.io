@@ -1,41 +1,11 @@
-# Publications — sorted newest first within the file.
-# The publications page groups them by year automatically.
-- title: "Symmetry Reduction of Quantum SDP Hierarchies via Schur–Weyl Duality"
-  authors: Smith, J.; Müller, K.; Dupont, M.
-  venue: "IEEE Transactions on Information Theory, vol. 72, no. 4, 2026"
-  year: 2026
-  tags: [SDP, Schur-Weyl, quantum channels]
-  arxiv: "https://arxiv.org/abs/2601.XXXXX"
-  doi: "https://doi.org/10.1109/TIT.2026.XXXXXXX"
-
-- title: "A Quantum Lovász Theta Function and Shannon Capacity Bounds"
-  authors: Dupont, M.; Lee, R.; Bauer, A.
-  venue: "Quantum, vol. 10, 2025"
-  year: 2025
-  tags: [Lovász theta, Shannon capacity, quantum graphs]
-  arxiv: "https://arxiv.org/abs/2509.XXXXX"
-  doi: "https://doi.org/10.22331/q-2025-XX-XX-XXX"
-
-- title: "Moment Matrix Hierarchies for Quantum MaxCut"
-  authors: Smith, J.; Chen, B.; Eriksson, D.
-  venue: "STOC 2025, ACM"
-  year: 2025
-  tags: [quantum MaxCut, moment matrix, SDP hierarchy]
-  arxiv: "https://arxiv.org/abs/2502.XXXXX"
-  doi: "https://doi.org/10.1145/XXXXXXX.XXXXXXX"
-
-- title: "Nonlocal Games and the Operator System of Quantum Correlations"
-  authors: Müller, K.; Fischer, E.; Goto, F.
-  venue: "Journal of Mathematical Physics, vol. 65, 2024"
-  year: 2024
-  tags: [nonlocal games, quantum correlations, operator systems]
-  arxiv: "https://arxiv.org/abs/2411.XXXXX"
-  doi: "https://doi.org/10.1063/5.XXXXXXX"
-
-- title: "Parity *-Homomorphisms in Quantum Error Correction"
-  authors: Dupont, M.; Ibrahim, H.; Jiménez, I.
-  venue: "Physical Review A, vol. 110, 2024"
-  year: 2024
-  tags: [quantum error correction, C*-algebras, *-homomorphisms]
-  arxiv: "https://arxiv.org/abs/2403.XXXXX"
-  doi: "https://doi.org/10.1103/PhysRevA.110.XXXXX"
+# Add your publications here. The page groups them by year automatically.
+# Fields: title, authors, venue, year, tags (list), arxiv (URL or ""), doi (URL or "")
+#
+# Example entry:
+# - title: "Your Paper Title"
+#   authors: Huber, F.; Magron, V.; Klep, I.
+#   venue: "Journal Name, vol. X, 2026"
+#   year: 2026
+#   tags: [SDP, quantum information]
+#   arxiv: "https://arxiv.org/abs/XXXX.XXXXX"
+#   doi: ""
