@@ -4,7 +4,7 @@
 - name: Jens Eisert
   institution: Freie Universität Berlin, Germany
   role: Full Professor of Quantum Physics
-  image: assets/images/team/jens-eisert.jpg
+  image: pics/eisert.jpg
   website: "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/"
   arxiv: "https://arxiv.org/search/quant-ph?searchtype=author&query=Eisert,+J"
   description: >
@@ -17,7 +17,7 @@
 - name: Sevag Gharibian
   institution: Paderborn University, Germany
   role: Associate Professor, Department of Computer Science
-  image: assets/images/team/sevag-gharibian.jpg
+  image: pics/gharibian.jpg
   website: "https://groups.uni-paderborn.de/fg-qi/"
   arxiv: "https://arxiv.org/search/?query=Gharibian%2C+Sevag&searchtype=author"
   description: >
@@ -30,7 +30,7 @@
 - name: Felix Huber
   institution: University of Gdańsk & ICTQT, Poland
   role: Assistant Professor, Institute of Informatics
-  image: assets/images/team/felix-huber.jpg
+  image: pics/huber.jpg
   website: "https://huberfe.github.io/"
   arxiv: "https://arxiv.org/a/huber_f_1.html"
   description: >
@@ -45,7 +45,7 @@
 - name: Igor Klep
   institution: University of Ljubljana, Slovenia
   role: Professor, Faculty of Mathematics and Physics
-  image: assets/images/team/igor-klep.jpg
+  image: pics/klep.jpg
   website: "https://igorklep.github.io/"
   arxiv: "https://arxiv.org/search/?searchtype=author&query=Igor+Klep"
   description: >
@@ -59,7 +59,7 @@
 - name: Victor Magron
   institution: LAAS-CNRS, Toulouse, France
   role: CNRS Researcher, Head of the POP team
-  image: assets/images/team/victor-magron.jpg
+  image: pics/magron.jpg
   website: "https://homepages.laas.fr/vmagron/"
   arxiv: "https://arxiv.org/search/?searchtype=author&query=Magron%2C+V"
   description: >
