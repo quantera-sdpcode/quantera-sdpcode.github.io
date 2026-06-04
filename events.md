@@ -18,7 +18,14 @@ show_tile: true
 
 ---
 
+{% if site.data.events %}
 {% assign sorted_events = site.data.events | sort: "date" %}
+{% else %}
+{% assign sorted_events = "" | split: "" %}
+{% endif %}
+{% if sorted_events.size == 0 %}
+<p><em>No events scheduled yet. Check back soon.</em></p>
+{% endif %}
 {% for event in sorted_events %}
 <div class="box" style="margin-bottom:2rem;">
   <div class="row">

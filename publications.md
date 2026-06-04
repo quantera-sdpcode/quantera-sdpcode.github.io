@@ -18,8 +18,14 @@ show_tile: true
 
 ---
 
+{% if site.data.publications %}
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
-
+{% else %}
+{% assign pubs_by_year = "" | split: "" %}
+{% endif %}
+{% if pubs_by_year.size == 0 %}
+<p><em>No publications listed yet.</em></p>
+{% endif %}
 {% for year_group in pubs_by_year %}
 <h2>{{ year_group.name }}</h2>
 <div class="table-wrapper">
