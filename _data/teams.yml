@@ -1,8 +1,10 @@
 # One entry per principal investigator / research group.
+# Add a headshot to assets/images/team/<filename> and set the image field below.
 
 - name: Jens Eisert
   institution: Freie Universität Berlin, Germany
   role: Full Professor of Quantum Physics
+  image: assets/images/team/jens-eisert.jpg
   description: >
     Jens Eisert leads research in quantum information science, quantum optics, and
     quantum many-body theory. He heads the Einstein Research Unit on Quantum Devices
@@ -14,6 +16,7 @@
 - name: Sevag Gharibian
   institution: Paderborn University, Germany
   role: Associate Professor, Department of Computer Science
+  image: assets/images/team/sevag-gharibian.jpg
   description: >
     Sevag Gharibian specialises in quantum complexity theory, approximation
     algorithms for quantum Hamiltonians, and quantum constraint satisfaction problems.
@@ -25,6 +28,7 @@
 - name: Felix Huber
   institution: University of Gdańsk & ICTQT, Poland
   role: Assistant Professor, Institute of Informatics
+  image: assets/images/team/felix-huber.jpg
   description: >
     Felix Huber's research spans quantum error correction, quantum entanglement,
     nonlocality, and the mathematical foundations of quantum information processing.
@@ -38,6 +42,7 @@
 - name: Igor Klep
   institution: University of Ljubljana, Slovenia
   role: Professor, Faculty of Mathematics and Physics
+  image: assets/images/team/igor-klep.jpg
   description: >
     Igor Klep is a leading expert in operator theory and real algebraic geometry,
     with a focus on semidefinite relaxations of polynomial optimisation problems in
@@ -50,6 +55,7 @@
 - name: Victor Magron
   institution: LAAS-CNRS, Toulouse, France
   role: CNRS Researcher, Head of the POP team
+  image: assets/images/team/victor-magron.jpg
   description: >
     Victor Magron leads the Polynomial and Moment Optimization (POP) team at LAAS-CNRS.
     His work is devoted to certified semidefinite and polynomial optimisation with
