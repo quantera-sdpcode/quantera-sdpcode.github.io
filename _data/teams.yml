@@ -1,4 +1,27 @@
 # One entry per principal investigator / research group.
+
+- name: Jens Eisert
+  institution: Freie Universität Berlin, Germany
+  role: Full Professor of Quantum Physics
+  description: >
+    Jens Eisert leads research in quantum information science, quantum optics, and
+    quantum many-body theory. He heads the Einstein Research Unit on Quantum Devices
+    within the Berlin University Alliance and is an ERC Consolidator Fellow (2012).
+    With over 130 publications and 180 invited talks, he is one of the most
+    prominent figures in European quantum information research.
+  website: "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/"
+
+- name: Sevag Gharibian
+  institution: Paderborn University, Germany
+  role: Associate Professor, Department of Computer Science
+  description: >
+    Sevag Gharibian specialises in quantum complexity theory, approximation
+    algorithms for quantum Hamiltonians, and quantum constraint satisfaction problems.
+    He received his PhD from the University of Waterloo (2012, supervised by Richard Cleve),
+    was awarded the NSERC Banting Postdoctoral Fellowship (Canada's top postdoctoral
+    prize), and was a Simons Research Fellow at UC Berkeley.
+  website: "https://groups.uni-paderborn.de/fg-qi/"
+
 - name: Felix Huber
   institution: University of Gdańsk & ICTQT, Poland
   role: Assistant Professor, Institute of Informatics
@@ -12,18 +35,6 @@
     Dissertation Prize by the AMOP section of the German Physical Society.
   website: "https://huberfe.github.io/"
 
-- name: Victor Magron
-  institution: LAAS-CNRS, Toulouse, France
-  role: CNRS Researcher, Head of the POP team
-  description: >
-    Victor Magron leads the Polynomial and Moment Optimization (POP) team at LAAS-CNRS.
-    His work is devoted to certified semidefinite and polynomial optimisation with
-    applications to quantum systems, control, deep learning, and energy networks.
-    He is co-author of the monograph <em>Sparse Polynomial Optimization: Theory and
-    Practice</em> (World Scientific, 2023) and did his PhD at École Polytechnique on
-    formal proofs for global optimisation.
-  website: "https://homepages.laas.fr/vmagron/"
-
 - name: Igor Klep
   institution: University of Ljubljana, Slovenia
   role: Professor, Faculty of Mathematics and Physics
@@ -36,24 +47,14 @@
     (2025–2026).
   website: "https://igorklep.github.io/"
 
-- name: Sevag Gharibian
-  institution: Paderborn University, Germany
-  role: Associate Professor (W2), Department of Computer Science
+- name: Victor Magron
+  institution: LAAS-CNRS, Toulouse, France
+  role: CNRS Researcher, Head of the POP team
   description: >
-    Sevag Gharibian specialises in quantum complexity theory, approximation
-    algorithms for quantum Hamiltonians, and quantum constraint satisfaction problems.
-    He received his PhD from the University of Waterloo (2012, supervised by Richard Cleve),
-    was awarded the NSERC Banting Postdoctoral Fellowship (Canada's top postdoctoral
-    prize), and was a Simons Research Fellow at UC Berkeley.
-  website: "https://groups.uni-paderborn.de/fg-qi/"
-
-- name: Jens Eisert
-  institution: Freie Universität Berlin, Germany
-  role: Full Professor of Quantum Physics
-  description: >
-    Jens Eisert leads research in quantum information science, quantum optics, and
-    quantum many-body theory. He heads the Einstein Research Unit on Quantum Devices
-    within the Berlin University Alliance and is an ERC Consolidator Fellow (2012).
-    With over 130 publications and 180 invited talks, he is one of the most
-    prominent figures in European quantum information research.
-  website: "https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/"
+    Victor Magron leads the Polynomial and Moment Optimization (POP) team at LAAS-CNRS.
+    His work is devoted to certified semidefinite and polynomial optimisation with
+    applications to quantum systems, control, deep learning, and energy networks.
+    He is co-author of the monograph <em>Sparse Polynomial Optimization: Theory and
+    Practice</em> (World Scientific, 2023) and did his PhD at École Polytechnique on
+    formal proofs for global optimisation.
+  website: "https://homepages.laas.fr/vmagron/"
