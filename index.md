@@ -10,7 +10,6 @@ author: null
 show_tile: false
 ---
 
-The **QuantERA SDPCode** consortium brings together research groups from across the globe
-to develop and apply semidefinite programming (SDP) methods in quantum information theory.
-Our work spans quantum channel capacities, nonlocal games, quantum optimization, and
-connections between graph theory and quantum computation.
+The **QuantERA SDPCode** consortium unites research groups working at the intersection 
+of quantum information theory, semidefinite programming, and algebraic methods. Together, we develop 
+new mathematical tools for understanding the power and limits of quantum computation and communication.
