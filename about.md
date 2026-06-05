@@ -58,7 +58,7 @@ show_tile: true
 .researcher-institution { font-size: .85rem; color: #fff; margin-bottom: .75rem; }
 @media (max-width: 600px) {
   .researcher-card { flex-direction: column; align-items: center; text-align: center; }
-  .researcher-photo { width: 100%; margin: 0; min-height: 240px; }
+  .researcher-photo { width: 220px; margin: 0; min-height: 240px; }
 }
 </style>
 
