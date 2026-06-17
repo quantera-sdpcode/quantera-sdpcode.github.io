@@ -14,6 +14,11 @@ show_tile: true
     Together, we develop new mathematical tools for understanding the power and limits of
     quantum computation and communication.
   </p>
+  <p style="font-size:1.35rem; line-height:1.75;">
+    Several postdoc positions opening up soon — see our
+    <a href="{{ '/open-positions.html' | relative_url }}">Open Positions</a> page.
+    Check with the individual Researchers, also see their websites for details.
+  </p>
 </div>
 
 ---

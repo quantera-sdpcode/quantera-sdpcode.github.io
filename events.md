@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: Events &amp; News
 description: Upcoming workshops, schools, and meetings.
 image: pics/background/damian-karpinski-29CoR39HiMo-unsplash.jpg
 nav-menu: true
